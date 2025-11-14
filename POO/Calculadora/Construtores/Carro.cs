@@ -1,13 +1,32 @@
-
-
 namespace Construtores
 {
     public class Carro
     {
-        public string marca;
+        public string Marca;
 
-        public string modelo;
+        public string Modelo;
 
-        public int ano;
+        public int Ano;
+
+
+
+        public void ExibirDados()
+        {
+            Console.WriteLine($"Marca: {Marca}, Modelo {Modelo}, Ano {Ano}");
+
+        }
+        
+        
+         public Carro(string n, string xpto, int i)
+        {
+            Marca = n;
+            Modelo = xpto;
+            Ano = i;
+
+            ExibirDados();
+        }
+       
     }
+
+
 }

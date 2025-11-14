@@ -1,0 +1,15 @@
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\bin\Debug\net9.0\ReviewArrays.exe
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\bin\Debug\net9.0\ReviewArrays.deps.json
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\bin\Debug\net9.0\ReviewArrays.runtimeconfig.json
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\bin\Debug\net9.0\ReviewArrays.dll
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\bin\Debug\net9.0\ReviewArrays.pdb
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\obj\Debug\net9.0\ReviewArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\obj\Debug\net9.0\ReviewArrays.AssemblyInfoInputs.cache
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\obj\Debug\net9.0\ReviewArrays.AssemblyInfo.cs
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\obj\Debug\net9.0\ReviewArrays.csproj.CoreCompileInputs.cache
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\obj\Debug\net9.0\ReviewArrays.sourcelink.json
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\obj\Debug\net9.0\ReviewArrays.dll
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\obj\Debug\net9.0\refint\ReviewArrays.dll
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\obj\Debug\net9.0\ReviewArrays.pdb
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\obj\Debug\net9.0\ReviewArrays.genruntimeconfig.cache
+C:\Users\56400424865\Desktop\BackendMoura\exercicio\ReviewArrays\obj\Debug\net9.0\ref\ReviewArrays.dll

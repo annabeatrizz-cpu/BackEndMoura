@@ -132,7 +132,7 @@ void Transferir()
        float Valor = float.Parse(Console.ReadLine());
 
 
-    if (saldos[idDestino] >= Valor)
+    if (saldos[idOrigem] >= Valor && Valor > 0)
     {
         saldos[idOrigem] -= Valor;
         saldos[idDestino] += Valor;
