@@ -1,0 +1,13 @@
+<h1>Pagina Listar Alunos</h1>
+
+
+@foreach (var item in ViewBag.Aluno)
+{
+    <p>
+        Cadastro: @item.Id <br>
+        Nome: @item.Nome <br>
+        Idade: @item.Idade <br>
+        Sala: @item.Materia <br>
+        Cidade: @item.Cidade <br>
+    </p>
+}  

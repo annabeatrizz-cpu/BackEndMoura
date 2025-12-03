@@ -1,0 +1,26 @@
+@model CrudMoura.Models.Aluno
+
+<h1>Cadastro de Aluno</h1>
+
+<form asp-action="SalvarAluno" method="post">
+
+<label asp-for="Nome">Nome do Aluno</label>
+<input asp-for="Nome" class="form-control">
+<span asp-validation-for="Nome"></span>
+
+<br>
+<label asp-for="Idade">Idade</label>
+<input asp-for="Idade" class="form-control">
+
+<br>
+<label asp-for="Materia">Materia do aluno</label>
+<input asp-for="Materia" class="form-control">
+
+<br>
+<label asp-for="Cidade">Cidade</label>
+<input asp-for="Cidade" class="form-control">
+
+<br><br>
+<button class="btn btn-danger">Cadastrar Aluno</button>
+
+</form>
