@@ -1,0 +1,168 @@
+@font-face {
+    font-family: Marcellus;
+    src: url(../assets/fonts/Marcellus/Marcellus-Regular.ttf),
+        url(../assets/fonts/Marcellus/OFL.txt);
+
+}
+
+@font-face {
+    font-family: Crimson-text;
+    src: url(../assets/fonts/Crimson_Text\,Marcellus/);
+
+}
+
+:root {
+    --cor-preto: #010513;
+    --cor-azul-acinzentado: #475580;
+    --cor-branco: #F1F1F1;
+    --cor-cinza: #D9D9D9;
+    --cor-azul-escuro: #1A348E;
+
+    --borda: 1px solid var(--cor-cinza);
+    --borda-arredondada: 2px;
+
+    --tamanho-fonte-lg: 20px;
+    --tamanho-fonte-md: 16px;
+    --tamanho-fonte-sm: 14px;
+    font-family: "Marcellus", sans-serif;
+
+
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline-color: var(--cor-azul-escuro);
+}
+
+body {
+    background-color: var(--cor-branco);
+}
+
+h1 {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+
+/* formulario*/
+
+.formulario-botao-azul {
+    background-color: var(--cor-azul-escuro);
+    border-radius: var(--borda-arredondada);
+    border: none;
+    height: 35px;
+
+    color: var(--cor-branco);
+    font-size: var(--tamanho-fonte-sm);
+}
+
+.formulario-campos>input {
+
+    border: var(--borda);
+    height: 35px;
+    background-color: var(--cor-cinza);
+
+    color: var(--cor-branco);
+    font-size: var(--tamanho-fonte-sm);
+    border-radius: var(--borda-arredondada);
+
+}
+
+.formulario-campos>label {
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-preto);
+    font-weight: 600;
+
+}
+
+.estilo-formulario {
+    /*background-color: var(--cor-azul-acinzentado);*/
+
+}
+
+#campo-upload {
+    display: none;
+}
+
+#texto-upload {
+    display: inline-block;
+    padding: 12px;
+    background-color: var(--cor-cinza);
+    font-weight: bold;
+    border-radius: 6px;
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+    font-weight: 500;
+    max-width: 300px;
+    min-height: 35px;
+}
+
+
+#cabecalho {
+    background-color: var(--cor-cinza);
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+/*CABECALHO*/
+
+
+
+#cabecalho>nav {
+
+    width: 85%;
+    max-width: 900px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: var(--borda);
+}
+
+#logo-mobile {
+    display: none;
+
+}
+
+.cabecalho-acoes {
+
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.cabecalho-acoes>nav {
+    display: flex;
+    align-items: center;
+
+}
+
+.foto-perfil {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+
+@media only screen and (max-width: 500px) {
+    #logo-mobile {
+        display: initial;
+    }
+
+    #logo-desktop {
+        display: none;
+    }
+}
+
+.card-fotoperfil {
+    width: 90px;
+}

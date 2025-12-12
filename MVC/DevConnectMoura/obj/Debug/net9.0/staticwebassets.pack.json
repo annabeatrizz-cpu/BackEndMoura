@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DevConnectMoura.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DevConnectMoura.cntyrwmgkp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\css\\Cadastro.css",
+      "PackagePath": "staticwebassets\\css\\Cadastro.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\css\\Feed.css",
+      "PackagePath": "staticwebassets\\css\\Feed.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\css\\global.css",
+      "PackagePath": "staticwebassets\\css\\global.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\css\\perfil.css",
+      "PackagePath": "staticwebassets\\css\\perfil.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\IMG_0481.JPG",
+      "PackagePath": "staticwebassets\\images\\IMG_0481.JPG"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\app-store.svg",
+      "PackagePath": "staticwebassets\\images\\app-store.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\chorao.jpg",
+      "PackagePath": "staticwebassets\\images\\chorao.jpg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\d7d83f626d90a550a099a07bb8c70e39.jpg",
+      "PackagePath": "staticwebassets\\images\\d7d83f626d90a550a099a07bb8c70e39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\google-play.svg",
+      "PackagePath": "staticwebassets\\images\\google-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\icone-casa-azul.svg",
+      "PackagePath": "staticwebassets\\images\\icone-casa-azul.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\icone-casa-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-casa-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\icone-comentario-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-comentario-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\icone-coracao-azul.svg",
+      "PackagePath": "staticwebassets\\images\\icone-coracao-azul.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\icone-coracao-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-coracao-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\icone-galeria-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-galeria-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\imagem.jpg",
+      "PackagePath": "staticwebassets\\images\\imagem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\logo-devconnect-lg.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-lg.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\logo-devconnect-md.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-md.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\logo-devconnect-sm.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\images\\post-gabigordo.svg",
+      "PackagePath": "staticwebassets\\images\\post-gabigordo.svg"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\56400424865\\Desktop\\BackendMoura\\MVC\\DevConnectMoura\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DevConnectMoura.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DevConnectMoura.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.DevConnectMoura.props",
+      "PackagePath": "build\\DevConnectMoura.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.DevConnectMoura.props",
+      "PackagePath": "buildMultiTargeting\\DevConnectMoura.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.DevConnectMoura.props",
+      "PackagePath": "buildTransitive\\DevConnectMoura.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
